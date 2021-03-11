@@ -1,2 +1,2 @@
 # Islesoft
-Public read.me repository.
+_software to websites ~ design to implementation_
